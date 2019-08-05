@@ -10,9 +10,9 @@ setup(name='vv-flask-restful-swagger',
       version='0.20.1',
       url='https://github.com/rantav/flask-restful-swagger',
       zip_safe=False,
-      packages=['flask_restful_swagger'],
+      packages=['vv_flask_restful_swagger'],
       package_data={
-        'flask_restful_swagger': [
+        'vv_flask_restful_swagger': [
           'static/*.*',
           'static/css/*.*',
           'static/images/*.*',

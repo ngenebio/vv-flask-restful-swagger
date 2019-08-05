@@ -9,7 +9,7 @@ Running:
 from flask import Flask, redirect
 from flask_restful import reqparse, abort, Api, Resource, fields,\
     marshal_with
-from flask_restful_swagger import swagger
+from vv_flask_restful_swagger import swagger
 
 app = Flask(__name__, static_folder='../static')
 

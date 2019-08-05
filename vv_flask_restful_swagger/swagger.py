@@ -13,7 +13,7 @@ except ImportError:
 
 from flask import request, abort, Response
 from flask_restful import Resource, fields
-from flask_restful_swagger import (
+from vv_flask_restful_swagger import (
   registry, api_spec_static)
 from jinja2 import Template
 
