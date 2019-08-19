@@ -8,7 +8,7 @@ with open('README') as file:
 
 setup(name='vv-flask-restful-swagger',
       version='0.20.1',
-      url='https://github.com/rantav/flask-restful-swagger',
+      url='https://github.com/openvar/vv-flask-restful-swagger.git',
       zip_safe=False,
       packages=['vv_flask_restful_swagger'],
       package_data={
